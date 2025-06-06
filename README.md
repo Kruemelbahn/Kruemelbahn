@@ -14,3 +14,14 @@ Developing Software:<br>
 - [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/)<br>
 - [Arduino-IDE](https://www.arduino.cc/)<br>
 
+> [!NOTE]
+> If you are
+> 
+> - missing something 
+> - have any questions
+> - find an error
+> - or want to give me some more/additional informations
+>
+> please do not hesitate to contact me using my website.
+
+
