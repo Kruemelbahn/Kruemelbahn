@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello 👋
 
-<!--
-**Kruemelbahn/Kruemelbahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+For my hobby, I develop some Hard- and software, most for the usage on model-railroads.
 
-Here are some ideas to get you started:
+# Used Tools
+_Always with its current version_<br>
+Developing hardware:<br> 
+- [Target3001!](https://www.ibfriedrich.com/) (Makerversion)<br>
+- [FreeCad](https://www.freecad.org/)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Developing Software:<br>
+- [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/)<br>
+- [Arduino-IDE](https://www.arduino.cc/)<br>
+
