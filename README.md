@@ -1,7 +1,9 @@
-## Hello 👋
+## Hello :steam_locomotive:
 
-For my hobby, I develop some Hard- and software, most for the usage on model-railroads.
-
+For my hobby, I develop some Hard- and software, most for the usage on model-railroads.<br>
+I also provide some information about the large and small railroad, to be found under [Infoletter](https://github.com/Kruemelbahn/Infoletter).<br>
+Enjoy!<br>
+<br>
 # Used Tools
 _Always with its current version_<br>
 Developing hardware:<br> 
