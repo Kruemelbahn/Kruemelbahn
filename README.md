@@ -9,7 +9,7 @@ Hardwaredevelopment: [Target3001!](https://www.ibfriedrich.com/) and [FreeCad](h
 Softwaredevelopment: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [MPLAB-IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)<br> 
 
 > [!NOTE]
-> It is recommended that you always use the latest version.<br>
+> It is recommended that you always use the latest version of hard- and software.<br>
 > German language is used in all projects/documentation, translation is not provided.<br>
 > If translation is required, please use the WWW, it offers numerous possibilities and tools for translation.<br>
 > If you are
