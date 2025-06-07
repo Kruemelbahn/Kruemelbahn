@@ -10,8 +10,8 @@ Softwaredevelopment: [Microsoft Visualstudio Community](https://visualstudio.mic
 
 > [!NOTE]
 > It is recommended that you always use the latest version.<br>
-> German is used in all projects/documentation, no translation is provided.<br>
-> If a translation is required, the WWW offers numerous possibilities and tools for translation.<br>
+> German language is used in all projects/documentation, translation is not provided.<br>
+> If translation is required, please use the WWW, it offers numerous possibilities and tools for translation.<br>
 > If you are
 > 
 > - missing something 
@@ -19,4 +19,4 @@ Softwaredevelopment: [Microsoft Visualstudio Community](https://visualstudio.mic
 > - find an error
 > - or want to give me some more/additional informations
 >
-> please do not hesitate to contact me using my website.
+> please do not hesitate to contact me using my website noted on the left side.
