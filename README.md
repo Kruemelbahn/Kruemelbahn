@@ -4,9 +4,9 @@ For my hobby, I developed some hard- and software, most for the usage on model-r
 I also provide some informations about the large and small railroad, to be found under [Infoletter](https://github.com/Kruemelbahn/Infoletter).<br>
 Enjoy!<br>
 <br>
-### Used Tools
-Hardwaredevelopment: [Target3001!](https://www.ibfriedrich.com/) and [FreeCad](https://www.freecad.org/)<br>
-Softwaredevelopment: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio) and [MPLAB-IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)<br> 
+### Used Developmenttools
+Hardware: [Target3001!](https://www.ibfriedrich.com/) and [FreeCad](https://www.freecad.org/)<br>
+Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/as-installer-7.0.2594-full.exe) and [MPLAB-IDE](https://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB_IDE_8_92.zip)<br> 
 
 > [!NOTE]
 > It is recommended that you always use the latest version of hard- and software.<br>
