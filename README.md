@@ -6,7 +6,7 @@ Enjoy!<br>
 <br>
 ### Used Developmenttools
 Hardware: [Target3001!](https://www.ibfriedrich.com/) and [FreeCad](https://www.freecad.org/)<br>
-Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/as-installer-7.0.2594-full.exe) and [MPLAB-IDE](https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem)<br> 
+Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio 7.0](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/as-installer-7.0.2594-full.exe) and [MPLAB-IDE 8.92](https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem)<br> 
 
 > [!NOTE]
 > It is recommended that you always use the latest version of hard- and software.<br>
