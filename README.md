@@ -12,11 +12,12 @@ Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/
 > It is recommended that you always use the latest version of hard- and software.<br>
 > German language is used in all projects/documentation, translation is not provided.<br>
 > If translation is required, please use the WWW, it offers numerous possibilities and tools for translation.<br>
-> If you are
-> 
-> - missing something 
+> If you
+> - are missing something 
 > - have any questions
 > - find an error
 > - or want to give me some more/additional informations
->
 > please do not hesitate to contact me using my website noted on the left side.
+>
+> Within the documents I often use links to other documents and/or websites. If you find a broken link, please let me know so that I can correct it. 
+
