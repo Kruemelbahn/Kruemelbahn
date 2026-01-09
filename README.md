@@ -12,7 +12,6 @@ for Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.
 > - [AVR-GCC](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/gcc-compilers)
 > - documentation how to download and install [AVRASM2](https://nicerland.com/eduFiles/AVR/Tutorials/MPLab_asm.pdf)
 
-<br>
 > [!NOTE]
 > It is recommended that you always use the latest version of hard- and software (especially the Developmenttools).<br>
 > German language is used in all projects and documentations, translation is not provided.<br>
