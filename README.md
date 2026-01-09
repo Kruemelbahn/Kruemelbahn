@@ -8,23 +8,29 @@ Enjoy!<br>
 for Hardware: [Target3001!](https://www.ibfriedrich.com/) and [FreeCad](https://www.freecad.org/)<br>
 for Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.com/de/vs/community/), [Arduino-IDE](https://www.arduino.cc/), [Atmel-Studio 7.0](https://ww1.microchip.com/downloads/aemDocuments/documents/DEV/ProductDocuments/SoftwareTools/as-installer-7.0.2594-full.exe) and [MPLAB-IDE 8.92](https://www.microchip.com/en-us/tools-resources/archives/mplab-ecosystem)<br> 
 > [!NOTE]
-> using [MPLAB X IDE v6.25](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) instead of Atmel-Studio 7.0 requests an additional compiler for some of my projects:<br>
-> - [AVR-GCC](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/gcc-compilers)
-> - documentation how to download and install [AVRASM2](https://nicerland.com/eduFiles/AVR/Tutorials/MPLab_asm.pdf)
+> If you are using [MPLAB X IDE v6.25](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) instead of Atmel-Studio 7.0 may you will will need one ore more additional compiler:<br>
+> <ul>
+>  <li>[AVR-GCC](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/gcc-compilers)</li>
+>  <li>[AVRASM2](https://nicerland.com/eduFiles/AVR/Tutorials/MPLab_asm.pdf): documentation where to download and how to install</li>
+> </ul>
 >
-> It is recommended that you always use the latest version of hard- and software (especially the Developmenttools).<br>
+> It is recommended that you always use the latest version of hard- and software (especially the developmenttools).<br>
 >
 > German language is used in all projects and documentations, translation is not provided.<br>
 > If translation is required, please use the WWW, it offers numerous possibilities and tools for translation.<br>
 >
 > If you
-> - are missing something 
-> - have any questions
-> - find an error
-> - or want to give me some more or additional informations<br>
-> please do not hesitate 
-> - either to create an issue in the relevant repository
-> - or to contact me via my website, the address of which can be found on the left-hand side.
+> <ul>
+>  <li>are missing something</li> 
+>  <li>have any questions</li> 
+>  <li>find an error</li> 
+>  <li>or want to give me some more or additional informations</li>
+> </ul>
+> please do not hesitate
+> <ul>
+>  <li>either to create an issue in the relevant repository</li>
+>  <li>or to contact me via my website, the address of which can be found on the left-hand side</li>
+> </ul>
 >
 > Within the documents I often use links to other documents and/or websites. If you find a broken link, please let me know so that I can correct it.
 >
