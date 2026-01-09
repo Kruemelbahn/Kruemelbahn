@@ -16,7 +16,7 @@ for Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.
 > - are missing something 
 > - have any questions
 > - find an error
-> - or want to give me some more or additional informations
+> - or want to give me some more or additional informations<br>
 > please do not hesitate 
 > - either to create an issue in the relevant repository
 > - or to contact me via my website, the address of which can be found on the left-hand side.
