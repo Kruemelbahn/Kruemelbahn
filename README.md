@@ -10,7 +10,7 @@ for Software: [Microsoft Visualstudio Community](https://visualstudio.microsoft.
 > [!NOTE]
 > If you are using [MPLAB X IDE v6.25](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide) instead of Atmel-Studio 7.0 you may need one ore more additional compiler:<br>
 > - [AVR-GCC](https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/gcc-compilers)
-> - [AVRASM2](https://nicerland.com/eduFiles/AVR/Tutorials/MPLab_asm.pdf): documentation where to download and how to install
+> - [AVRASM2](https://nicerland.com/eduFiles/AVR/Tutorials/MPLab_asm.pdf) (documentation where to download and how to install)
 >
 > It is recommended that you always use the latest version of hard- and software (especially the developmenttools).<br>
 >
